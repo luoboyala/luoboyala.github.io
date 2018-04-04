@@ -19,8 +19,9 @@
 ## 安装依赖
 
 报错如下:
+
 ```cmd
-    gem install 
+    bundle install 
     Bundler could not find compatible versions for gem "mini_portile2":
   In snapshot (Gemfile.lock):
     mini_portile2 (= 2.2.0)
@@ -42,4 +43,27 @@ Running `bundle update` will rebuild your snapshot from scratch, using only
 the gems in your Gemfile, which may resolve the conflict.
 ```
 
-根据提示输入bundle update,装了一大堆莫名其妙的东西
+根据提示输入bundle update,装了一大堆莫名其妙的东西  
+好的然后bundle install,成功了  
+啧,果然之前总报错就是我没有完整安装msys2的原因吗  
+
+## 简单部署
+
+报错如下:
+
+```cmd
+bundle exec jekyll server
+Configuration file: F:/Github/jekyll-theme-next/_config.yml
+            Source: F:/Github/jekyll-theme-next
+       Destination: F:/Github/jekyll-theme-next/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+   GitHub Metadata: Error processing value 'description':
+  Liquid Exception: No repo name found. Specify using PAGES_REPO_NWO environment variables, 'repository' in your configuration, or set up an 'origin' git remote pointing to your github.com repository. in /_layouts/post.html
+             ERROR: YOUR SITE COULD NOT BE BUILT:
+                    ------------------------------------
+                    No repo name found. Specify using PAGES_REPO_NWO environment variables, 'repository' in your configuration, or set up an 'origin' git remote pointing to your github.com repository.
+```
+
+大意大概是需要指向我自己的GitHub repository吧
