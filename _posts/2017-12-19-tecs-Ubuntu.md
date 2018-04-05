@@ -6,7 +6,6 @@ categories:
   - 技术
 tags:
   - ubuntu
-last_modified_at: 2017-12-13T00:20:49-04:00
 ---
 # 关于Ubuntu的使用
 

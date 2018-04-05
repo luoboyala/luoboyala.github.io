@@ -6,7 +6,6 @@ categories:
   - 心情
 tags:
   - [thoughts]
-last_modified_at: 2017-11-23T08:04:49-04:00
 ---
 # 这样的清晨总给我一种即将世界末日的错觉
 

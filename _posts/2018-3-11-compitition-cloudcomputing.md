@@ -6,7 +6,6 @@ categories:
   - 竞赛
 tags:
   - cloudcomputing
-last_modified_at: 2018-3-11 T20:52:30-21:00
 ---
 # 总结一下云计算比赛的一点得失吧
 

@@ -6,7 +6,6 @@ categories:
   - 课程
 tags:
   - [bigdata]
-last_modified_at: 2017-11-23T08:04:49-04:00
 ---
 # 关于大数据这个课
 

@@ -5,8 +5,7 @@ image: /assets/images/IMG_20171114_234339.jpg
 categories:
 - 课程
 tags:
-- computer graphics
-last_modified_at:2017-12-11T22:47:49-04:00
+- [computer graphics]
 ---
 # 关于计算机图形学混分上分的心路历程
 

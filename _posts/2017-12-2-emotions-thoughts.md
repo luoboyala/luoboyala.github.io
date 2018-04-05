@@ -6,7 +6,6 @@ categories:
   - 心情
 tags:
   - [thoughts]
-last_modified_at: 2017-12-2T10:25:49-04:00
 ---
 # 这段时间丧到爆炸
 

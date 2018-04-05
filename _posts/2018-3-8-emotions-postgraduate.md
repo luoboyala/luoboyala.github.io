@@ -6,7 +6,6 @@ categories:
   - 心情
 tags:
   - postgraduate
-last_modified_at: 2018-3-8 T21:44:49-22:40
 ---
 # 关于考研的事儿吧
 

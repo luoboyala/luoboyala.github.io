@@ -6,7 +6,6 @@ categories:
 - 心情
 tags:
 - [thoughts]
-last_modified_at: 2017-12-5T10:25:49-04:00
 ---
 # 年末总结
 

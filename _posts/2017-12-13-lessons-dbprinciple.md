@@ -6,7 +6,6 @@ categories:
   - 课程
 tags:
   - dbprinciple
-last_modified_at: 2017-12-13T00:47:49-04:00
 ---
 # 总结一下这个学期数据库这门课的一些印象深刻的东西吧
 
