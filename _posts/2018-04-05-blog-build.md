@@ -1,17 +1,27 @@
+---
+title: Next Theme Individual Build Tutorial
+description: 个人搭建NexT博客的一点小问题和解决方案
+categories:
+ - tutorial
+tags: [jekyll]
+---
 # 记录博客搭建的过程
 
 初步步骤参照[指南](http://theme-next.simpleyyt.com/getting-started.html)
+
 此次搭建建立于上次搭建安装失败的基础上
 
 ## 安装ruby包
 
-安装包应该都可以下载到,我这里用的是rubyinstaller-2.5.0-2-x64版本  
-完成后会询问你是否安装msys2和mingw开发工具包等,我这里默认安装  
-具体也不太清楚这两者的具体用途,但是之前搭建失败貌似就是这方面的原因,因此考虑全部安装  
+安装包应该都可以下载到,我这里用的是rubyinstaller-2.5.0-2-x64版本
+
+完成后会询问你是否安装msys2和mingw开发工具包等,我这里默认安装
+
+具体也不太清楚这两者的具体用途,但是之前搭建失败貌似就是这方面的原因,因此考虑全部安装
 
 ## 安装bundler
 
-因为考虑到安装包bundler的位置问题,我打算放在F:\GitHub下,安装好包,然后再考虑clone这个next主题  
+因为考虑到安装包bundler的位置问题,我打算放在F:\GitHub下,安装好包,然后再考虑clone这个next主题
 关于cmd(我用的Cmder)无法进入其他盘的办法,直接输入盘符F:就好了
 
 ## 下载next主题
@@ -20,7 +30,7 @@
 
 报错如下:
 
-```cmd
+```sh
     bundle install 
     Bundler could not find compatible versions for gem "mini_portile2":
   In snapshot (Gemfile.lock):
@@ -51,7 +61,7 @@ the gems in your Gemfile, which may resolve the conflict.
 
 报错如下:
 
-```cmd
+```sh
 bundle exec jekyll server
 Configuration file: F:/Github/jekyll-theme-next/_config.yml
             Source: F:/Github/jekyll-theme-next
@@ -76,7 +86,7 @@ url:https://luoboyala.github.io
 
 报错如下:
 
-```cmd
+```sh
 jekyll 3.7.3 | Error:  (F:/Github/luoboyala.github.io/_config.yml): could not find expected ':' while scanning a simple key at line 17 column 1
 ```
 
