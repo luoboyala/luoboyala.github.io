@@ -1,6 +1,6 @@
 ---
-title: "basically theme博客搭建整合"
-excerpt: "其实现在写已经忘得差不多了..."
+title: basically theme博客搭建整合
+excerpt: 其实现在写已经忘得差不多了...
 image: /assets/images/Code_2017-12-13_00-14-48.png
 categories:
   - 技术

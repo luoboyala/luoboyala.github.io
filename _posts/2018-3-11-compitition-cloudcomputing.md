@@ -1,5 +1,5 @@
 ---
-title: 「云计算比赛」的一点总结吧"
+title: 「云计算比赛」的一点总结吧
 excerpt: "全程在划水的我，认真还是要输..."
 image: /assets/images/rua5.png
 categories:

@@ -1,6 +1,6 @@
 ---
-title: "大三上学期末总结"
-excerpt: "经历了南京两场雪之后，破冰，到家"
+title: 大三上学期末总结
+excerpt: 经历了南京两场雪之后，破冰，到家
 image: /assets/images/rua4.jpg
 categories:
   - 心情

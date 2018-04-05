@@ -1,6 +1,6 @@
 ---
 title: 「数据库原理」总结
-excerpt: "对这个学期徐老师的数据库原理这门课的一些总结"
+excerpt: 对这个学期徐老师的数据库原理这门课的一些总结
 image: /assets/images/TIM20171212211804.png
 categories:
   - 课程

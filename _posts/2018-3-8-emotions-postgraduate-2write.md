@@ -1,6 +1,6 @@
 ---
-title: "考研的一些事儿"
-excerpt: "新年，新学期，照样豹废的我"
+title: 考研的一些事儿
+excerpt: 新年，新学期，照样豹废的我
 image: /assets/images/rua6.jpg
 categories:
   - 心情

@@ -1,6 +1,6 @@
 ---
-title: "关于这几天确实是"
-excerpt: "第九周和第十周的丧气"
+title: 关于这几天确实是
+excerpt: 第九周和第十周的丧气
 image: /assets/images/IMG_20171124_172440.jpg
 categories:
   - 心情

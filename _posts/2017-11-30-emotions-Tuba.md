@@ -1,6 +1,6 @@
 ---
-title: "计软迎新的微信小测试网站"
-excerpt: "真·不知道怎么写起"
+title: 计软迎新的微信小测试网站
+excerpt: 真·不知道怎么写起
 image: /assets/images/rua2.jpg
 categories:
   - 心情

@@ -1,6 +1,6 @@
 ---
 title: 「计算机图形学」课程总结
-excerpt: "对这个学期唐慧老师的计算机图形学这门课的一些总结"
+excerpt: 对这个学期唐慧老师的计算机图形学这门课的一些总结
 image: /assets/images/IMG_20171114_234339.jpg
 categories:
 - 课程
