@@ -2,7 +2,7 @@
 title: Next Theme Individual Build Tutorial
 description: 个人搭建NexT博客的一点小问题和解决方案
 categories:
- - tutorial
+ - 博客教程
 tags: [jekyll]
 ---
 # 记录博客搭建的过程
