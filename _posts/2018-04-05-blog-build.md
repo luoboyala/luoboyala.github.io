@@ -116,3 +116,7 @@ $ bundle exec jekyll server
 ## 其它补充
 
 喜欢这个作者的[next博客](https://notes.wanghao.work/),学习一下吧...
+
+## 闲话
+
+想起刚才不小心点到我的IntelliJ,因为是预览版...需要我重新下载了,好气!
