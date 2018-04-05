@@ -1,7 +1,9 @@
 ---
+type: photo
 title: 「大数据处理」总结
+date: 2017-11-23 15:45:20
 excerpt: 关于这个大三上的研讨课大数据处理以及后续
-image: /assets/images/IMG_20171114_012815.jpg
+photos: /assets/images/IMG_20171114_012815.jpg
 categories:
   - 课程
 tags:
