@@ -1,7 +1,8 @@
 ---
+type: photo
 title: 闲来无事装了个ubuntu
 excerpt: 就网易云音乐不能用就很难过...
-image: /home/luohao/文档/blog/obsession707.github.io/assets/images/2017-12-19 08-17-53.png
+photos: /home/luohao/文档/blog/obsession707.github.io/assets/images/2017-12-19 08-17-53.png
 categories:
   - 技术
 tags:
