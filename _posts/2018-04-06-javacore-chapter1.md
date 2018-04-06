@@ -1,5 +1,6 @@
 ---
 title: Java学习-Java核心技术卷1-第一章
+description: Java的一些特性简介
 categories:
   - Java学习
 tags:

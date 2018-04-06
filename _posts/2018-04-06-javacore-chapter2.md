@@ -1,5 +1,6 @@
 ---
 title: Java学习-Java核心技术卷1-第二章
+description: Java的一些关键词和准备
 categories:
   - Java学习
 tags:
