@@ -8,7 +8,7 @@ tags:
 ---
 # Java核心技术卷1 chapter2 Java程序设计环境
 
-## jdk
+## JDK
 
 从开始学习java的java7到现在已经有java10了
 
