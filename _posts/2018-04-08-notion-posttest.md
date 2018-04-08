@@ -1,3 +1,11 @@
+---
+title: Blog Post Template Turned Into Markdown Test
+description: 测试一下notion笔记的博客模板转markdown的格式
+categories:
+  - Notion笔记测试
+tags:
+  - notion
+---
 # Blog Post
 
 A conversation with Ray Garcia, Jonathan Gold, Evan Kleiman, Bricia Lopez, and Carlos Salgado about the evolving role of Mexican cuisine in LA as culture, art, and craft
