@@ -1,6 +1,6 @@
 ---
 title: Blog Post Template Turned Into Markdown Test
-description: 测试一下notion笔记的博客模板转markdown的格式
+description: 测试一下notion笔记的博客模板转markdown的格式,本身并不能做到跟notion一样有左右并排的格式,notion自带的字体格式也不会带入有点可惜. 除此之外,用notion作为一个生产工具似乎并不恰当,作为生产结果反而会好些.
 categories:
   - Notion笔记测试
 tags:
