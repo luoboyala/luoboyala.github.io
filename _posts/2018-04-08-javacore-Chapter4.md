@@ -50,10 +50,13 @@ tags:
 
 **所有与通配符匹配的源文件都将被编译成为类文件**
 
+```java
     javac Employee*.java
+```
 
 **注意不要编写返回可变对象的访问器方法. 下代码中test代码中d和harry.hireDay引用同一个对象, 更改d就会自动改变这个雇员对象的私有状态**
 
+```java
     class Employee{
     	private Date hireDay;
     	public Date getHireDay()
@@ -70,6 +73,7 @@ tags:
        {
           return hireDay.clone();
        }
+```
 
 **总结Java方法参数的使用情况:**
 
@@ -77,6 +81,7 @@ tags:
 1. **可以改变一个对象参数的状态**
 1. **不能让对象参数引用一个新的对象**
 
+```java
     /**
      * This program demonstrates parameter passing in Java.
      * @version 1.00 2000-01-27
@@ -166,3 +171,4 @@ tags:
           salary += raise;
        }
     }
+```
