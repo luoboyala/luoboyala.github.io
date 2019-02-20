@@ -121,7 +121,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  leetcode: /leetcode/index.html
+  leetcode: /leetcode/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
